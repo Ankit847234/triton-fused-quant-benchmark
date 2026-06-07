@@ -36,4 +36,4 @@ def run_benchmark(size, provider):
 
 if __name__ == '__main__':
     print("--- RUNNING HARDWARE-AWARE INFRASTRUCTURE BENCHMARK ---")
-    run_benchmark.run(show_plots=True, print_data=True)
+    run_benchmark.run(show_plots=False, print_data=True, save_path='.')
