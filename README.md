@@ -15,5 +15,5 @@ python benchmark.py
 ```
 
 ## Results
-Benchmark graph will appear in `figures/benchmark.png`.
+Benchmark graph will appear in `figures/benchmark.png.png`.
 ![Benchmark Graph](figures/benchmark.png.png)
